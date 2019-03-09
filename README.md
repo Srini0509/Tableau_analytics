@@ -26,14 +26,14 @@ The dataset here is a sample of the transactions made in a retail store. The sto
  * Males are the major consumer
  * Unmarried Males with the age group 26 to 35 are the dominant purchaser in Unmarried status
  * By ranking consumers in city wise B scores greatest, then C and then A the least
- * When noticing unmarried sect 18-36 age group are the major sale contributors, Whereas the married sect consumer differs.
- * It seems like married consumers spent little money, which is logical. Particularly when analysing 18-25 age group spent meagre          amount, who is the 2nd major contributor in unmarried sect
+ * When noticing unmarried sect 18-36 age group are the second or third larger contributors, Whereas in the married sect this differs.
+ * It seems like married consumers spent little money, which is logical. Particularly when analysing married 18-25 age group, noticed      that only meagre amount was spent, who is the second major contributor in unmarried sector
  * Also purchase of 46-55 age group increased after marriage
  * The consumers who are staying for a year buy a lot than 2 year and 3 year consumers. Infact year of stay decrease the purchase except    for guest
  * While analysing the occupation overall the occupation no:4 is the potential purchaser. The 2nd highest is occupation 0 (might be        unemployed-unknown due to privacy. If so it will be the interesting fact)
  * All 26-35 age consumer having occupation 0, except for 3 year stay consumer who is having occupation 17
  * The product P00025442 and P00110742 are the top 2 hit products among the consumers
  
- 
+ #### We can still drill down more with data for focussed understanding on the consumer purchase. We can analyse the product interest    with respect to city, gender, marital status and Age group
  
  
